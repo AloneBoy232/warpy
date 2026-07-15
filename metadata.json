@@ -1,0 +1,6 @@
+{
+  "name": "Warpy",
+  "description": "Warpy: A beautifully designed high-speed VPN and proxy client with highly accurate Cloudflare clean IP scanning, built for heavily restricted networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
